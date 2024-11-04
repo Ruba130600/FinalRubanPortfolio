@@ -73,7 +73,7 @@
   .about-containers,
   .contact-info-upper-container,
   .btn-container {
-    flex-wrap: wrap;
+    display: flex;
   }
   .contact-info-container {
     margin: 0;
